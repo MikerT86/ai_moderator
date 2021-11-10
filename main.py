@@ -1,5 +1,8 @@
-from helper import *
+import pandas as pd
+import argparse
 
-settings = get_settings()
+def main():
+    pass
 
-print(settings['data_folder'])
+if __name__ == '__main__':
+    main()
