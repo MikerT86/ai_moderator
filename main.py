@@ -6,4 +6,5 @@ def main():
 
 if __name__ == '__main__':
     print("TEST")
+    print("TEST1")
     main()
