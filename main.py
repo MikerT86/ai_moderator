@@ -9,4 +9,4 @@ if __name__ == '__main__':
     print("TEST1")
     main()
     print("MAIN TEST")
-
+    print("TEST2")
